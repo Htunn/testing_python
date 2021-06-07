@@ -1,1 +1,4 @@
-.testing_python
+.testing_python/
+.coverage
+.vscode/
+__pycache__/
